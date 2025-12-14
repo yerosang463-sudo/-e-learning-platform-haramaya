@@ -62,12 +62,15 @@ $password = '';  // Your password
 Ethiopian context integration
 Secure payment simulation
 Responsive design
-👥 Team Members
-[Name 1]
-[Name 2]
-[Name 3]
-[Name 4]
-[Name 5]
+
+
+👥 Team Member
+Yerosan Girma
+Tesfahun Berhanu
+Yonas Debelo
+Wondwosen Assegid
+Lemmesa Ahmed
+
 📚 Course Information
 Course: programming 2
 Instructor: Mr.Aliy
